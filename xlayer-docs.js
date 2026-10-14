@@ -118,6 +118,7 @@ module.exports = [
                 '/developer/tools/data-indexers/the-graph',
                 '/developer/tools/data-indexers/subquery',
                 '/developer/tools/data-indexers/subsquid',
+                '/developer/tools/data-indexers/pinax',
               ]
             },
             {
